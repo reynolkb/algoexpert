@@ -1,3 +1,9 @@
+# def isPalindrome(string):
+#     reverse = string[::-1]
+#     if(string == reverse):
+#         return True
+#     return False
+
 # O(n) time | O(n) space
 # def isPalindrome(string):
 #     reversedChars = []
