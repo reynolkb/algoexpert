@@ -21,4 +21,4 @@ def getNthFib(n):
     else:
         return lastTwo[0]
 
-print(getNthFib(6))
+print(getNthFib(4))

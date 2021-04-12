@@ -1,4 +1,6 @@
 # def isPalindrome(string):
+#     string = string.lower().replace(' ', '')
+
 #     reverse = string[::-1]
 #     if(string == reverse):
 #         return True
